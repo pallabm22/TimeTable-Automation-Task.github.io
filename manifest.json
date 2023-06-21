@@ -1,0 +1,10 @@
+{
+    "name":"Pingala time table",
+    "description":"scrape data from pingala portal",
+    "version":"1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"popup.html"
+    },
+    "permissions" : ["activeTab","scripting"]
+}
